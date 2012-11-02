@@ -1,7 +1,7 @@
 {
   "name": "Play2Twitter",
   "manifest_version": 2,
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "Share on Twitter the music you're listening to on Google Play Music.",
   "page_action": {
     "default_icon": "icons/navbar.png",
